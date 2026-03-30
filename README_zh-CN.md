@@ -77,7 +77,7 @@ edgeone pages dev
 ## 📚 文档入口
 
 - **FastAPI 文档**：[https://fastapi.tiangolo.com](https://fastapi.tiangolo.com)
-- **EdgeOne Pages 文档**：[https://pages.edgeone.ai/document/cloud-functions/python](https://pages.edgeone.ai/document/cloud-functions/python)
+- **EdgeOne Pages 文档**：[https://pages.edgeone.ai/document/python](https://pages.edgeone.ai/document/python)
 
 ## 部署
 

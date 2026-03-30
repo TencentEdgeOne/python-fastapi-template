@@ -77,7 +77,7 @@ Visit [http://localhost:8088](http://localhost:8088) to view the application.
 ## 📚 Documentation
 
 - **FastAPI Documentation**: [https://fastapi.tiangolo.com](https://fastapi.tiangolo.com)
-- **EdgeOne Pages Docs**: [https://pages.edgeone.ai/document/cloud-functions/python](https://pages.edgeone.ai/document/cloud-functions/python)
+- **EdgeOne Pages Docs**: [https://pages.edgeone.ai/document/python](https://pages.edgeone.ai/document/python)
 
 ## Deploy
 
