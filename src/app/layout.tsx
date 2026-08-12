@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "FastAPI + EdgeOne Pages",
-  description: "Deploy high-performance FastAPI applications as serverless functions on EdgeOne Pages. With automatic OpenAPI docs, Pydantic validation, and async support.",
+  title: "FastAPI + EdgeOne Pages | EdgeOne Makers",
+  description: "Deploy high-performance FastAPI applications as serverless functions on EdgeOne Pages. With automatic OpenAPI docs, Pydantic validation, and async support. · Demo only · EdgeOne Makers",
+  keywords: "EdgeOne Makers, Demo only",
 };
 
 export default function RootLayout({
